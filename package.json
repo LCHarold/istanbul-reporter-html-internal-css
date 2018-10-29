@@ -1,0 +1,19 @@
+{
+  "name": "istanbul-reporter-html-internal-css",
+  "version": "0.0.1",
+  "description": "Istanbuljs custom reporter to generate HTML report with internal CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  },
+  "keywords": [
+    "css",
+    "istanbul",
+    "reporter"
+  ],
+  "author": "Lee Harold",
+  "license": "MIT"
+}
